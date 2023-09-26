@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="audition" transform="translate(-30 -30)">
+    <path id="Path_3421" data-name="Path 3421" d="M30,34a4,4,0,0,1,4-4H62a4,4,0,0,1,4,4V62a4,4,0,0,1-4,4H34a4,4,0,0,1-4-4Zm0,0" fill="#80cbc4"/>
+    <path id="Path_3422" data-name="Path 3422" d="M45,45V75H75V45Zm0,0" transform="translate(-12 -12)" fill="#004d40"/>
+    <path id="Path_3423" data-name="Path 3423" d="M72.9,95.984H68.892l-.78,2.827H65L69.552,85h2.691l4.582,13.81H73.684ZM69.532,93.66h2.721l-1.361-4.923Zm0,0" transform="translate(-28 -44)" fill="#80cbc4"/>
+    <path id="Path_3424" data-name="Path 3424" d="M135.3,109.871A2.779,2.779,0,0,1,132.982,111a2.65,2.65,0,0,1-2.224-.972A4.536,4.536,0,0,1,130,107.2V100h2.785v7.263q.019,1.5,1.033,1.5a1.445,1.445,0,0,0,1.378-.8V100H138v10.81h-2.617Zm0,0" transform="translate(-80 -56)" fill="#80cbc4"/>
+  </g>
+</svg>
